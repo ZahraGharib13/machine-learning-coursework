@@ -31,7 +31,7 @@ The final simple reduced-feature KNN model keeps the original coursework choice.
 
 The training dataset for this exercise is available in the shared OneDrive folder:
 
-**[Selected Exercises datasets on OneDrive](https://1drv.ms/f/c/00b09ae9462395ef/IgD_Wa_VhP2lTohStq4OCs8RARNpYtzCSqS5FUa_oCMkBVk?e=8hMsA2)**
+**[Selected Exercises datasets on OneDrive](https://1drv.ms/f/c/00b09ae9462395ef/IgD_Wa_VhP2lTohStq4OCs8RAZsYOLE0kHru3543HtPvgWk?e=JByTLx)**
 
 For this project, download:
 
