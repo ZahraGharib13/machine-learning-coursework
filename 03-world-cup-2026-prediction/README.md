@@ -74,7 +74,7 @@ It contains 72 group-stage match rows and prediction columns for:
 
 The datasets used by this project are kept outside GitHub and are available in the shared OneDrive folder:
 
-**[Open the World Cup / selected-exercises dataset folder on OneDrive](https://1drv.ms/f/c/00b09ae9462395ef/IgD_Wa_VhP2lTohStq4OCs8RARNpYtzCSqS5FUa_oCMkBVk?e=8hMsA2)**
+**[Open the World Cup / selected-exercises dataset folder on OneDrive](https://1drv.ms/f/c/00b09ae9462395ef/IgD_Wa_VhP2lTohStq4OCs8RAZsYOLE0kHru3543HtPvgWk?e=JByTLx)**
 
 The project combines multiple football data sources, including historical international results, the 2026 World Cup schedule, FIFA ranking information, Elo ratings, and 2026 tournament team/match files.
 
