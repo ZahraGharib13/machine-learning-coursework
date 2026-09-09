@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+mall_customers.csv
+model
+submission.csv
+result.zip
