@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.2
+joblib
+jupyter
