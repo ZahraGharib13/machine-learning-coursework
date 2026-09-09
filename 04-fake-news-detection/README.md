@@ -15,16 +15,18 @@ A machine-learning project for classifying news articles as **Fake** or **Real**
 
 ## Dataset
 
-The notebook expects these four files in the same directory as the notebook:
+The dataset files are not stored directly in this repository due to their size.
 
-```text
-news_train.csv
-news_train_text_vectors.npz
-news_test.csv
-news_test_text_vectors.npz
-```
+You can download all required dataset files from the following OneDrive folder:
 
-The dataset files are not included in this repository package.
+**[Download the dataset from OneDrive](https://1drv.ms/f/c/00b09ae9462395ef/IgA7AJ6vdt3JQL3-g0HdaOX4AbekO4nQ9HSVbRfplJxOhbE?e=sJl17J)**
+
+After downloading, place the following files in the same directory as the notebook:
+
+- `news_train.csv`
+- `news_train_text_vectors.npz`
+- `news_test.csv`
+- `news_test_text_vectors.npz`
 
 The original shapes used in the notebook are:
 
