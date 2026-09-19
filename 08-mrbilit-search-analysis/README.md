@@ -51,7 +51,6 @@ jupyter notebook search_analysis.ipynb
 ├── search_analysis.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Notes
