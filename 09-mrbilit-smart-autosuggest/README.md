@@ -76,7 +76,6 @@ with columns `Suggestion0` through `Suggestion4`.
 ├── auto_suggest.ipynb
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ## Notes
