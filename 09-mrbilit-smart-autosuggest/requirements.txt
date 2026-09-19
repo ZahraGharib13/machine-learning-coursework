@@ -1,0 +1,3 @@
+pandas>=2.0
+python-Levenshtein>=0.25
+jupyter>=1.0
